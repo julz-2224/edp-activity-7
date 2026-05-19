@@ -68,7 +68,7 @@ namespace Act4_EventSystem
         private void AboutButton_Click(object sender, EventArgs e)
         {
             MessageBox.Show(
-                "Event Information System\nVersion 1.0\nDeveloped using C# WinForms",
+                "This Program has been modified by julz persona 2",
                 "About Program",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information
